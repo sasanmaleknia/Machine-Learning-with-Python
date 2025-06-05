@@ -1,6 +1,6 @@
 # Machine Learning with Python
 
-Just a bunch of exercises and mini projects I worked on while learning machine learning during my uni days.  
+Just a some of exercises and mini projects I worked on while learning machine learning during my uni days.  
 All done in Python using libraries like `scikit-learn`, `pandas`, and `NumPy`.  
 Sharing here to track my progress and maybe help others too!
 
